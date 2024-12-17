@@ -113,7 +113,7 @@ ggplot(simulated_data) +
 
 
 
-### INTERPOLATION SPLINE ###
+### INTERPOLATION SPLINE ### ******script used for the article (with some variable before)********  
 
 # Calcul des splines pour chaque Proportion
 splines <- simulated_data %>%
